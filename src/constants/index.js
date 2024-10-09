@@ -97,7 +97,6 @@ const experiences = [
       "Provided private tutoring to students in classes 9th to 12th, creating personalized lesson plans and study strategies tailored to individual learning styles.",
       "Designed engaging and interactive lessons to foster a deep understanding of core subjects, ensuring students could apply concepts confidently.",
       "Demonstrated excellent communication and teaching skills, effectively helping students grasp and master complex concepts.",
-      "Utilized regular assessments, feedback, and adaptive teaching methods to ensure continuous improvement.",
     ],
   },
   {
@@ -107,10 +106,9 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Feb 2023 - Jul 2024 ",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Provided clear, step-by-step solutions to academic questions, ensuring students understood key concepts.",
+      "Maintained a high standard of accuracy and professionalism while delivering timely responses.",
+      "Fostered a positive learning experience by explaining complex topics in a simplified and approachable manner.",
     ],
   },
 ];
@@ -141,7 +139,7 @@ const projects = [
       },
     ],
     image: NetFlix,
-    source_code_link: "https://netflix-gpt-the-beginning-bf8gdecm1-mohits-projects-57d4123e.vercel.app/",
+    source_code_link: "https://github.com/Mohitsinghparmarg/NetflixGPT---The-Beginning.git",
   },
   {
     name: "ShoppingApp",
@@ -166,7 +164,7 @@ const projects = [
       },
     ],
     image: ShoppingApp,
-    source_code_link: "https://shoppingapp-1-waj4.onrender.com/",
+    source_code_link: "https://github.com/Mohitsinghparmarg/ShoppingApp.git",
   },
 ];
 
