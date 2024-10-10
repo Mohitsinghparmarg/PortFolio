@@ -38,7 +38,7 @@ Follow these steps to set up the project locally on your machine.
 
 ```bash
 git clone URL
-cd project_3D_developer_portfolio
+cd portfolio
 ```
 
 **Installation**
